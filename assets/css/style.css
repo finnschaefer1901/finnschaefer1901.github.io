@@ -10,7 +10,10 @@
 .banner_item {
 	top: 0;
 	padding: 10px 10px 10px 10px;
-	color: #3c06a1;
+	color: #072140;
 	font-weight: 700;
 	font-size: 16pt;
+}
+footer {
+    color: #3070B3; /* TUM Blue */
 }
