@@ -64,6 +64,9 @@ My Name is Finn Rasmus Schäfer, I am a german software engineer with interests 
 - Problem Solving
 - Team Collaboration
 
+## Scientific Publications
+**Signal processing pipeline for an autonomous electrical race car** [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
+
 ## Projects
 ### Formula Student Driverless
 - curvature optimal Motion Planning
