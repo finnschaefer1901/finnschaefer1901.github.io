@@ -1,14 +1,15 @@
-**Presenting my self**
+# **Presenting my self**
+
 My name is Finn Rasmus Schäfer. I am currently aiming for my Masters degree in Robotics, Cognition and Intelligence at Technical University of Munich. Beside my studies i am Working Student at BMW in the field of Computer Vision (with specialization on Lidar development for high automated driving). Beside my studies i took part in Formula Student Driverless and the Indy Autonomous Challenge. 
 
 # Finn Rasmus Schäfer
-*Software Engineer*
+## *Software Engineer*
 
 ![Profile Picture](img/Finn.jpg)
 
 ## Contact Information
 - **Email:** finnrasmus2000@gmail.com
-- **LinkedIn:** [linkedin.com/in/finnschaefer](https://www.linkedin.com/in/johndoe)
+- **LinkedIn:** [linkedin.com/in/finnschaefer](www.linkedin.com/in/finn-rasmus-schaefer-abaa4820b)
 - **GitHub:** [github.com/finnschaefer1901](https://github.com/finnschaefer1901)
 
 ## Summary
@@ -16,26 +17,43 @@ My Name is Finn Rasmus Schäfer, I am a german software engineer with interests 
 
 ## Work Experience
 ### Cooperate Student at DB Netz Ag (Sep. 2018 - Oct. 2022)
-- Fill in what i did and learned there
+- Testing
+- Validation
+- Development
+- Commissioning
+- Railway Engineering
 
 ### Working Student at DeepDrive (Nov. 2022 - Aug. 2023)
-- Fill in what i did and learned there
+- Automation
+- Safety
+- CANApe
+- Testbench setup
+- Electric Motor
 
 ### Working Student at BMW Ag (Sep. 2023 - Present)
-- Fill in what are my tasks
+- Sensor Data Analysis
+- Visualization
+- ADAS
+- Autonomous Driving
 
 ## Education
 ### Bachelor of Engineering in Railway Engineering
 **Technical University Mittel Hessen** (2018-2019)
-- finished without degree
+- Railway Engineering
+- Safety & Regulations
 
 ### Bachelor of Engineering in Electical Engineering - Automation
 **Cooperate State University Mannheim** (2019 - 2022)
-- Relevant Courses: 
+- Control Theory
+- Automation
+- Information Technology
 
 ### Master of Science in Robotics Cognition and Intelligence
 **Technical University of Munich** (2022-2024)
-- Relevant Courses:
+- Deep Learning
+- Robotics
+- Computer Vision
+- Machine Learning
 
 
 ## Skills
@@ -48,16 +66,24 @@ My Name is Finn Rasmus Schäfer, I am a german software engineer with interests 
 
 ## Projects
 ### Formula Student Driverless
-- Dev ...
+- curvature optimal Motion Planning
+- Trajectory planning
+- linear Model Predictive Control
 
 ### Indy Autonomous Challenge
-- dev ...
+- Visualization
+- Data analysis
+- time optimal planning
 
 ### Practical Course in 3D Scanning and Spatial Learning
 - Our Team investigated the VOCA apprach 
+- speech driven Face animation
+- intuitive emotions
 
 ### Seminar on 3D Machine Learning
-- stuff ...
+- Learning on Point Cloud Data
+- Dynamic Graph CNNs
+- EdgeConv
 
 ## Languages
 - English
