@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+  max-width: 1200px !important;
+}
+
+.banner_item {
+	top: 0;
+	padding: 10px 10px 10px 10px;
+	color: #fff;
+	font-weight: 700;
+	font-size: 16pt;
+}
