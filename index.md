@@ -1,4 +1,4 @@
-# **Presenting my self**
+# **Presenting myself**
 
 My name is Finn Rasmus Schäfer. I am currently aiming for my Masters degree in Robotics, Cognition and Intelligence at Technical University of Munich. Beside my studies i am Working Student at BMW in the field of Computer Vision (with specialization on Lidar development for high automated driving). Beside my studies i took part in Formula Student Driverless and the Indy Autonomous Challenge. 
 
