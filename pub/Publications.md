@@ -1,4 +1,4 @@
-**Publications**
+# **Publications**
 
 On this Page all my Thesis and Papers are documented. Feel free to read them, if there are any additional questions you can contact me via my email adress. I am also open for Collaboration, Feedback and Project ideas.
 
@@ -11,3 +11,5 @@ On this Page all my Thesis and Papers are documented. Feel free to read them, if
 - **Seminar Report on Algorithms of Machine Learning [Bachelor, GER]** [Algorithmen des maschinellen Lernens](https://finnschaefer1901.github.io/assets/doc/Seminararbeit_FinnRasmus_Schaefer.pdf)
 
 - **Seminar Report on Learning on Point Clouds [Master, ENG]** [Dynamic Graph CNN for Learning on Point Clouds in Master Seminar 3D-Machine Learning Proceedings](https://finnschaefer1901.github.io/assets/doc/Seminar_Schaefer_FinnRasmus_final.pdf)
+
+There are more publications to come as I am currently aiming for a guided research and a scientific career in general. 
