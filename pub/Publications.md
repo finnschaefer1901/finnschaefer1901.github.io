@@ -1,4 +1,6 @@
-**This Site holds all my current Publications**
+**Publications**
+
+On this Page all my Thesis and Papers are documented. Feel free to read them, if there are any additional questions you can contact me via my email adress. I am also open for Collaboration, Feedback and Project ideas.
 
 - **Signal processing pipeline for an autonomous electrical race car [Formula Student, ENG]** [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
 
