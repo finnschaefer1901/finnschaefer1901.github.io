@@ -7,6 +7,14 @@
   max-width: 1200px !important;
 }
 
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden; /* Optional - hides scrollbars if content overflows */
+  }
+
 .banner_item {
 	top: 0;
 	padding: 20px 20px 20px 20px;
