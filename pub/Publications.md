@@ -8,4 +8,4 @@
 
 - **Seminar Report on Algorithms of Machine Learning [Bachelor, GER]** [Algorithmen des maschinellen Lernens](assets/doc/Seminararbeit_FinnRasmus_Schaefer.pdf)
 
-- **Seminar Report on Learning on Point Clouds [Master, ENG]** [Dynamic Graph CNN for Learning on Point Clouds in Master Seminar 3D-Machine Learning Proceedings](assets/doc/Seminar_Schaefer_FinnRasmus_final.pdf)
+- **Seminar Report on Learning on Point Clouds [Master, ENG]** [Dynamic Graph CNN for Learning on Point Clouds in Master Seminar 3D-Machine Learning Proceedings](https://github.com/finnschaefer1901/finnschaefer1901.github.io/raw/main/assets/doc/Seminar_Schaefer_FinnRasmus_final.pdf)
