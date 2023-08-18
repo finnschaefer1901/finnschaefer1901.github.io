@@ -94,5 +94,5 @@ My Name is Finn Rasmus Schäfer, I am a german software engineer with interests 
 - French (basic communication)
 
 ## Interests
-Autonomous Driving, Machine Learning and Artificial Intelligence, Automation, Football, Travelling
+Autonomous Driving, Machine Learning and Artificial Intelligence, Automation, Football, Travelling, Music
 
