@@ -5,7 +5,7 @@ My name is Finn Rasmus Schäfer. I am currently aiming for my Masters degree in 
 # Finn Rasmus Schäfer
 ## *Software Engineer*
 
-![Profile Picture](img/Finn.jpg)
+![Profile Picture](assets/img/Finn.jpg)
 
 ## Contact Information
 - **Email:** finnrasmus2000@gmail.com

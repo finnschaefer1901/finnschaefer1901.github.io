@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: Finn Rasmus Schäfer
 description: CV and Projects
+nav:
+  - title: Home
+    url: /
+  - title: /science
+    url: /pub/
+
+plugins:
+  - jekyll-seo-tag
