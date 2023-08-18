@@ -8,7 +8,7 @@ My name is Finn Rasmus Schäfer. I am currently aiming for my Masters degree in 
 ![Profile Picture](assets/img/Finn.jpg)
 
 ## Contact Information
-- **Email:** finnrasmus2000@gmail.com
+- **Email:** [finnrasmus2000@gmail.com](mailto:finnrasmus2000@gmail.com)
 - **LinkedIn:** [linkedin.com/in/finnschaefer](www.linkedin.com/in/finn-rasmus-schaefer-abaa4820b)
 - **GitHub:** [github.com/finnschaefer1901](https://github.com/finnschaefer1901)
 
