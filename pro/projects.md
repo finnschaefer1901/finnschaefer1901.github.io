@@ -2,7 +2,7 @@
 
 On this page, all my projects are documented. This is not related to the [papers, thesis and Documentation](https://finnschaefer1901.github.io/pub/Publications); this is focused on the practical work.
 
-## Cooperate Study
+## Cooperative Study
 During my studies at DHBW Mannheim in cooperation with Deutsche Bahn Netz AG, I undertook various practical projects. Most of these projects in this field revolved around testing and validation. I participated in ultrasonic testing of ICE Trains, established the documentation system for a test laboratory, and contributed to a variety of tests for digital switch systems. In each practical phase, I was required to compose a scientific report detailing the current state of the art, foundational work, my own contributions, and potential future approaches.
 Due to the IP of the topics discussed, which belong to DB Netz AG Zentrale, I am unable to publicly share these reports.
 

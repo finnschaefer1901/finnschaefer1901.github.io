@@ -7,6 +7,8 @@ My name is Finn Rasmus Schäfer. I am currently pursuing my Master's degree in R
 
 ![Profile Picture](assets/img/Finn.jpg)
 
+<br>
+
 ## Contact Information
 - **Email:** [finnrasmus2000@gmail.com](mailto:finnrasmus2000@gmail.com)
 - **LinkedIn:** [linkedin.com/in/finnschaefer](www.linkedin.com/in/finn-rasmus-schaefer-abaa4820b)
@@ -51,7 +53,7 @@ Currently highest Degree: B. eng. Electical Engineering
 - Information Technology
 
 ### Master of Science in Robotics Cognition and Intelligence
-**Technical University of Munich (Oct. 2022- Oct. 2024)**
+**Technical University of Munich (Oct. 2022- Present)**
 - Deep Learning
 - Robotics
 - Computer Vision
