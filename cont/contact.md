@@ -2,7 +2,7 @@
 
 If you have any questions or feedback, please use the contact form below:
 
-<form action="/submit" method="post">
+<form action="process_contact.php" method="post">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required><br>
 
