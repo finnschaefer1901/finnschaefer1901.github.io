@@ -1,6 +1,6 @@
 # **Publications**
 
-On this Page all my Thesis and Papers are documented. Feel free to read them, if there are any additional questions you can contact me via my email adress. I am also open for Collaboration, Feedback and Project ideas.
+On this page, all my theses and papers are documented. Feel free to read them. If you have any additional questions, you can contact me via my email address. I am also open to collaboration, feedback, and project ideas.
 
 ## 2023
 
