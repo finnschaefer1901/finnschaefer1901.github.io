@@ -1,8 +1,8 @@
-## Contact Me
+## Contact Us
 
 If you have any questions or feedback, please use the contact form below:
 
-<form action="process_contact.php" method="post">
+<form action="https://formspree.io/finnrasmus2000@gmail.com" method="post">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required><br>
 
