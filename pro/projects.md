@@ -41,5 +41,8 @@ We also had some experiements with re-training voca on the [RAVDESS Dataset](htt
   Your browser does not support the video tag.
 </video>
 
+### Seminar on 3D Machine Learning
+Within this Seminar we discussed state of the art papers in the field of 3D Machine Learning. As I am highly interested in LIDAR sensors and Point Cloud Data, I choosed to present the ["Dynamic Graph CNN for Learning on Point Cloud Data"]() Paper that expanded the PointNet and PointNet++ approach by introducing EdgeConv. A detailed Summary and Comparison can be found [here](../assets/doc/Seminar_Schaefer_FinnRasmus_final.pdf).
+
 ## Private
 My personal projects primarily involve data capture initiatives. Currently, I am in the process of developing a PCB using KiCAD that records various physical parameters from a standard car. The primary objective is to attain the capability to gauge the vehicle's dynamic performance and to establish a live telemetry system for it. This pursuit is largely driven by my fascination with automobiles and a general interest in performance measurement. 
