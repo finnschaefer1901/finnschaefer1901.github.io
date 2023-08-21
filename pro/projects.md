@@ -30,10 +30,16 @@ As a team member of TUM Autonomous Motor Sport, I participated as a planning tea
 
 ## Practical Course om 3D Scanning and Spatial Learning
 As part of my studies I participated in a Practical Course with focus on 3D Scanning and Spatial Learning. My team and I had the task to perform intuitive, speech-driven face animation. Our Team split up in two groups, one choosing a learning-based transformer approach and focusing on blendshapes. For a neural network it is quite hard to learn the correlation between speech input and realistic (emotional) Face animation. Our Subteam concentrated on improving on the Voice operated character animation ([VOCA](https://voca.is.tue.mpg.de/)). This approach delivers a good generalization result on lip movement but struggles harldy with expressing emotions. The features extracted out of the input audio (using deepspeach) are extracted to a one-hat encoding vector that should be able to display different speeking styles. These speaking styles do not deliver emotional face movement. Our KISS approach was to extract the Emotion out of the audio input and then merge the voca output with a specific emotion template. This leads to a reasonable result. By comparing the results we could definetly say that the transformer approach works significantly better when it comes to intutive generalization. The approaches both leaked a bit to robustness.
-![Blendshape result](../assets/img/blendshape.mp4)
+<video width="640" height="360" controls>
+  <source src="../assets/img/blendshape.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 We also had some experiements with re-training voca on the [RAVDESS Dataset](https://zenodo.org/record/1188976). The main challenge was to transfer the original RAVDESS data into usable training data for the VOCA model. When using this training approach we got more resonable results in context of face movement but we weren't able to get a result as clean as the original VOCA result is. 
-![RAVDESS on VOCA](../assets/img/happy_ravdess.mp4)
+<video width="640" height="360" controls>
+  <source src="../assets/img/happy_ravdess.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Private
 My personal projects primarily involve data capture initiatives. Currently, I am in the process of developing a PCB using KiCAD that records various physical parameters from a standard car. The primary objective is to attain the capability to gauge the vehicle's dynamic performance and to establish a live telemetry system for it. This pursuit is largely driven by my fascination with automobiles and a general interest in performance measurement. 
