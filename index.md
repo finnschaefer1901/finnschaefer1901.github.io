@@ -37,19 +37,21 @@ My name is Finn Rasmus Schäfer. I am a German software engineer with interests 
 - Autonomous Driving
 
 ## Education
+Currently highest Degree: B. eng. Electical Engineering
+
 ### Bachelor of Engineering in Railway Engineering
-**Technical University Mittel Hessen** (2018-2019)
+**Technical University Mittel Hessen (Oct. 2018- Sep. 2019)**
 - Railway Engineering
 - Safety & Regulations
 
 ### Bachelor of Engineering in Electical Engineering - Automation
-**Cooperate State University Mannheim** (2019 - 2022)
+**Cooperate State University Mannheim (Oct. 2019 - Oct. 2022)**
 - Control Theory
 - Automation
 - Information Technology
 
 ### Master of Science in Robotics Cognition and Intelligence
-**Technical University of Munich** (2022-2024)
+**Technical University of Munich (Oct. 2022- Oct. 2024)**
 - Deep Learning
 - Robotics
 - Computer Vision
@@ -65,9 +67,10 @@ My name is Finn Rasmus Schäfer. I am a German software engineer with interests 
 - Team Collaboration
 
 ## Scientific Publications
-**Signal processing pipeline for an autonomous electrical race car** [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
+Signal processing pipeline for an autonomous electrical race car [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
 
 ## Projects
+These are the Projects that i took part of. Some of them we're mandatory for my studies, some of them not.
 ### Formula Student Driverless
 - curvature optimal Motion Planning
 - Trajectory planning
@@ -91,7 +94,7 @@ My name is Finn Rasmus Schäfer. I am a German software engineer with interests 
 ## Languages
 - English
 - German
-- French (basic communication)
+- French (B1)
 
 ## Interests
 Autonomous Driving, Machine Learning and Artificial Intelligence, Automation, Football, Travelling, Music
