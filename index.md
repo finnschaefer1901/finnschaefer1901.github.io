@@ -47,7 +47,7 @@ Currently highest Degree: B. eng. Electical Engineering
 - Safety & Regulations
 
 ### Bachelor of Engineering in Electical Engineering - Automation
-**Cooperate State University Mannheim (Oct. 2019 - Oct. 2022)**
+**Cooperative State University Mannheim (Oct. 2019 - Oct. 2022)**
 - Control Theory
 - Automation
 - Information Technology
