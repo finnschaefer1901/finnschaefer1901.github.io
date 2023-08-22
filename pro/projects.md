@@ -9,7 +9,7 @@ Due to the IP of the topics discussed, which belong to DB Netz AG Zentrale, I am
 ## Formula Student
 
 ### What is Formula Student (Driverless)
-Formula Student is an international engineering championship where a variety of universities compete against each other. The primary objective is to design and construct a race car capable of competing against other universities in events held throughout the season. These events consist of both static and dynamic disciplines. The static events focus on knowledge presentation, covering not only technical aspects but also business-related topics. On the other hand, the dynamic disciplines involve racing, testing aspects such as lateral and longitudinal vehicle dynamics, as well as battery performance across various challenges. For further details, please consult this source [here](https://www.formulastudent.de/about/concept/)
+Formula Student is an international engineering championship where a variety of universities compete against each other. The primary objective is to design and construct a race car capable of competing against other universities in events held throughout the season. These events consist of both static and dynamic disciplines. The static events focus on knowledge presentation, covering not only technical aspects but also business-related topics. On the other hand, the dynamic disciplines involve racing, testing aspects such as lateral and longitudinal vehicle dynamics, as well as battery performance across various challenges. For further details, please consult this source [here](https://www.formulastudent.de/about/concept/).
 
 ![FSEast Team 2022](..\assets\img\FSEast.jpg)
 

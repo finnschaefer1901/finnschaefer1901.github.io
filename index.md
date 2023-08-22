@@ -69,7 +69,7 @@ Currently highest Degree: B. eng. Electical Engineering
 - Team Collaboration
 
 ## Scientific Publications
-Signal processing pipeline for an autonomous electrical race car [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
+- Signal processing pipeline for an autonomous electrical race car [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
 
 ## Projects
 These are the Projects that i took part of. Some of them we're mandatory for my studies, some of them not.
@@ -99,5 +99,10 @@ These are the Projects that i took part of. Some of them we're mandatory for my 
 - French (B1)
 
 ## Interests
-Autonomous Driving, Machine Learning and Artificial Intelligence, Automation, Football, Travelling, Music
+- Autonomous Driving
+- Machine Learning and Artificial Intelligence
+- Automation
+- Football
+- Travelling
+- Music
 
