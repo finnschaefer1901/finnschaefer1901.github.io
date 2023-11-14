@@ -2,6 +2,8 @@
 
 On this Page all my Thesis and Papers are documented. Feel free to read them, if there are any additional questions you can contact me via my email adress. I am also open for Collaboration, Feedback and Project ideas.
 
+- **Report 3D Scanning and Spatial Learning [Master, ENG]** [Intuitive Speech-Driven Face Animation](https://finnschaefer1901.github.io/assets/doc/3DSSL_Intuitive_Animation_Final_Report-3.pdf)
+
 - **Signal processing pipeline for an autonomous electrical race car [Formula Student, ENG]** [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
 
 - **Study Thesis on curvature optimal Motion Planning [Formula Student, GER]** [Entwicklung, Implementierung und Validierung eines lokalen Pfadplanungsalgorithmus für den autonomen Rennsport](https://finnschaefer1901.github.io/assets/doc/T3_3100.pdf)
