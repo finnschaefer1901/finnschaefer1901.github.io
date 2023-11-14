@@ -4,13 +4,13 @@ On this page, all my theses and papers are documented. Feel free to read them. I
 
 ## 2023
 
+- **Report 3D Scanning and Spatial Learning [Master, ENG]** [Intuitive Speech-Driven Face Animation](https://finnschaefer1901.github.io/assets/doc/3DSSL_Intuitive_Animation_Final_Report-3.pdf)
+
 - **Seminar Report on Algorithms of Machine Learning [Bachelor, GER]** [Algorithmen des maschinellen Lernens](https://finnschaefer1901.github.io/assets/doc/Seminararbeit_FinnRasmus_Schaefer.pdf)
 
 - **Seminar Report on Learning on Point Clouds [Master, ENG]** [Dynamic Graph CNN for Learning on Point Clouds in Master Seminar 3D-Machine Learning Proceedings](https://finnschaefer1901.github.io/assets/doc/Seminar_Schaefer_FinnRasmus_final.pdf)
 
 ## 2022
-
-- **Report 3D Scanning and Spatial Learning [Master, ENG]** [Intuitive Speech-Driven Face Animation](https://finnschaefer1901.github.io/assets/doc/3DSSL_Intuitive_Animation_Final_Report-3.pdf)
 
 - **Signal processing pipeline for an autonomous electrical race car [Formula Student, ENG]** [Signalverarbeitungsforum Karlsruhe 2022](https://publikationen.bibliothek.kit.edu/1000150865/149629985)
 
